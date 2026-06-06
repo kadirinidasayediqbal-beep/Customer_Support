@@ -1,7 +1,7 @@
 # Customer Support Helpdesk Dashboard — Power BI
 
 A Power BI dashboard built to track and analyze customer support ticket data across agents, priorities, and resolution statuses.
-
+![Dashboard Preview](Preview%20of%20Dashboard.png)
 ---
 
 ## About the Project
